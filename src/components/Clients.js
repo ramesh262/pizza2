@@ -2,7 +2,7 @@ import React from "react";
 
 const Clients = () => {
   return (
-    <div className="clients">
+    <div id="Contact" className="clients">
       <div className="container">
         <div className="row">
           <div className="col-3">

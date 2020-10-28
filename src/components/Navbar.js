@@ -9,19 +9,19 @@ const Navbar = () => {
         </div>
         <ul className="navbar__ul">
           <li>
-            <a href="Home">Home</a>
+            <a href="#Home">Home</a>
           </li>
           <li>
-            <a href="Menu">Menu</a>
+            <a href="#Menu">Menu</a>
           </li>
           <li>
             <a href="#Shop">Shop</a>
           </li>
           <li>
-            <a href="News">News</a>
+            <a href="#News">News</a>
           </li>
           <li>
-            <a href="Contact">Contact</a>
+            <a href="#Contact">Contact</a>
           </li>
         </ul>
       </div>
